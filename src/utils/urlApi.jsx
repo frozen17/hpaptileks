@@ -1,1 +1,1 @@
-export const REST_API = `https://hpap-reactapp.herokuapp.com`
+export const REST_API = `https://hpap-reactapp.herokuapp.com/api`
